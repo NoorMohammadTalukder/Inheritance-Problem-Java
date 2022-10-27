@@ -10,7 +10,9 @@
 </ul>
 
 <h3>Question </h3>
-![q](https://user-images.githubusercontent.com/63577979/198289227-abf4ac03-1ac7-462c-ad50-4b9c510c7f49.JPG)
+
+![q](https://user-images.githubusercontent.com/63577979/198289484-28026a42-7b87-417e-8f07-18f19a14fd16.JPG)
 
 <h3>Output </h3>
-![output](https://user-images.githubusercontent.com/63577979/198289295-303a77ed-ce0c-4b72-951e-3a5ba05a53ab.jpg)
+
+![output](https://user-images.githubusercontent.com/63577979/198289528-6f1d2c9f-7528-4d48-9a3e-b1a15fa62e48.jpg)

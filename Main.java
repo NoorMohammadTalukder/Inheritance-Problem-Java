@@ -1,7 +1,7 @@
 public class Main{
   public static void main(String[] args){
     
-    Manager m1=new Manager(1,"Noor",2000,"Dhaka");
+    Manager m1=new Manager(1,"Rayhan",2000,"Dhaka");
     m1.showManagerDetails();
 
     Salesman s1=new Salesman(2,"Abdullah",500,"Dhaka","T-Shirt",1);
